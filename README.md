@@ -3,16 +3,6 @@ This repo is to contain all of the algorithms I want to learn to solve and progr
 
 ---
 
-``` 
-    def close(self):
-        if self.viewer:
-            self.viewer.close()
-            self.viewer = None
-```
-
----
-
-
 - [ ] Dijkstra 
 - [ ] A* 
 - [ ] Rapidly-Exploring Random Tree (RRT & RRT*)
