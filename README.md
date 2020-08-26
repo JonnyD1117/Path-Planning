@@ -3,7 +3,7 @@ This repo is to contain all of the algorithms I want to learn to solve and progr
 
 ---
 
-```python 
+``` 
     def close(self):
         if self.viewer:
             self.viewer.close()
