@@ -3,7 +3,7 @@ This repo is to contain all of the algorithms I want to learn to solve and progr
 
 ---
 
-'code' pip install torch 'code'
+''' pip install torch '''
 
 ---
 
